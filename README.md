@@ -6,7 +6,7 @@
 - Firebase (Push Notifications)
 
 # Installation
-1.  Run git clone https://github.com/dexbytesinfotech/laravel-api.git laravel-api
+1.  Run git clone https://github.com/namth3061/forex-api forex-api
 2.  Create a MySQL database for the project - `laravel-example`
 3.  From the projects root run `cp .env.example .env`
 4.  Configure your `.env` file   
@@ -21,7 +21,7 @@
 
 
 # Admin Panel 
-1. Project https://github.com/dexbytesinfotech/livewire should be after installed API code in your server or machine
+1. Project https://github.com/namth3061/forex should be after installed API code in your server or machine
 
 ### Storage folder Ownership and Permission
 1. Check the permissions on the storage directory: `chmod -R 775 storage`    
